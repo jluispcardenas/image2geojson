@@ -3,3 +3,4 @@ image2geojson.egg-info
 *.json
 build
 dist
+.gitignore
