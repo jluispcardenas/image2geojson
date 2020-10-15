@@ -1,4 +1,4 @@
-# INAGE 2 GeoJSON
+# IMAGE 2 GeoJSON
 
 Converts an image file to GeoJSON.
 
