@@ -25,5 +25,5 @@ positional arguments:
 ## Example
 
 ~~~
-$ image2geojson screen.png output.json 47.11122 3.1291276
+$ image2geojson screen.png output.json -103.3034325 20.5254661
 ~~~
