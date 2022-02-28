@@ -27,3 +27,4 @@ positional arguments:
 ~~~
 $ image2geojson screen.png output.json -103.3034325 20.5254661
 ~~~
+ 
